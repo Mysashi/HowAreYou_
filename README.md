@@ -1,2 +1,1 @@
-# HowAreYou_
-Bosota merge
+# How are you - игра-проект, в жанре атмосферной бродилки
